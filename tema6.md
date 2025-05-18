@@ -73,34 +73,3 @@
 
 * **Un grafo es plano ⇔ no contiene un subgrafo que pueda contraerse a $K_5$ o $K_{3,3}$**.
 
----
-
-### 🔹 **Grafo Dual**
-
-Dado un grafo plano $G$, su **grafo dual $G^*$** se construye:
-
-* Cada cara de $G$ ↔ vértice de $G^*$.
-* Cada arista de $G$ ↔ arista entre las dos caras que separa.
-
-  * Si es arista puente ⇒ se representa como bucle.
-
-**Propiedades del grafo dual:**
-
-* $G^*$ es también plano.
-* $\# \text{vértices de } G^* = \# \text{caras de } G$
-* $\# \text{aristas de } G^* = \# \text{aristas de } G$
-* $\# \text{caras de } G^* = \# \text{vértices de } G$
-
-> ⚠️ El grafo dual **depende de la inmersión concreta**.
-
----
-
-### 🔹 **Teorema de los Cuatro Colores**
-
-* **Todo grafo plano puede colorearse con a lo sumo 4 colores.**
-* Es decir:
-  **$\chi(G) \leq 4 \quad \text{si } G \text{ es plano}$**
-
----
-
-Si deseas, puedo convertir esta información en una tabla, resumen imprimible o fichas de estudio. ¿Te gustaría?

@@ -34,11 +34,11 @@
 
 ### 4. Ejemplos Importantes de Grafos
 
-* **Grafo completo ********************************************$K_n$********************************************:** Todos los vértices están conectados entre sí.
-* **Grafo camino ********************************************$P_n$********************************************:** Vértices forman una secuencia lineal.
-* **Grafo ciclo ********************************************$C_n$********************************************:** Vértices forman un ciclo cerrado.
+* **Grafo completo $K_n$:** Todos los vértices están conectados entre sí.
+* **Grafo camino $P_n$:** Vértices forman una secuencia lineal.
+* **Grafo ciclo $C_n$:** Vértices forman un ciclo cerrado.
 * **Grafos bipartitos:** Se pueden dividir los vértices en dos grupos, sin aristas internas.
-* **Grafos bipartitos completos ********************************************$K_{n,m}$********************************************:** Cada vértice de un grupo conectado con todos los vértices del otro grupo.
+* **Grafos bipartitos completos $K_{n,m}$:** Cada vértice de un grupo conectado con todos los vértices del otro grupo.
 
 ---
 
@@ -86,7 +86,7 @@
 
 **Variantes en matrices:**
 
-* Aristas múltiples: Indican número de aristas entre vértices.
-* Lazos: Indican doble número del lazo del vértice.
-* Digrafos: La matriz de adyacencias ya no es simétrica.
-* Grafos ponderados: Indican peso en lugar de 1.
+* **Aristas múltiples**: Indican número de aristas entre vértices.
+* **Lazos**: Indican doble número del lazo del vértice.
+* **Digrafos**: La matriz de adyacencias ya no es simétrica.
+* **Grafos ponderados**: Indican peso en lugar de 1.
